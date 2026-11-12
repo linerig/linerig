@@ -1,8 +1,10 @@
 <p align="center">
-  <a href="https://linerig.com"><img src="images/banner.jpg" alt="LineRig: where simulation meets the plant" width="100%"></a>
+  <a href="https://linerig.com"><img src="images/logo.png" alt="LineRig" width="88"></a>
 </p>
 
-<h3 align="center">Describe a line, drop in a drawing or lay it out yourself.<br>It comes alive in 3D and runs from your own PLC program.</h3>
+<h1 align="center">Where simulation meets the plant.</h1>
+
+<p align="center"><b>Describe a line, drop in a drawing or lay it out yourself.<br>It comes alive in 3D and runs from your own PLC program.</b></p>
 
 <p align="center">
   <a href="https://github.com/linerig/linerig/releases/latest/download/LineRig-windows-x64.zip"><img src="https://img.shields.io/badge/Download-Windows-FFAA28?style=for-the-badge&logo=windows&logoColor=1C1406" alt="Download for Windows"></a>
@@ -11,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="images/ai-assistant.gif" alt="An AI assistant builds a sorting line in LineRig from a drawing and a tag table, then runs it" width="100%">
+  <img src="images/cover.webp" alt="An AI assistant builds a sorting line in LineRig from a drawing and a tag table, then runs it" width="100%">
 </p>
 
 ## Describe a line. AI builds it.
