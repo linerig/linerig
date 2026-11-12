@@ -42,4 +42,3 @@ works with the AI subscription you already have.
 
 - [Website](https://linerig.com) · [Docs](https://linerig.com/docs/) · [Download](https://linerig.com/download/) · [Pricing](https://linerig.com/pricing/)
 - [Report a bug or suggest a part](https://github.com/linerig/linerig/issues/new/choose)
-- [Samples](samples/): TIA Portal tag tables and exercises for the sample plants
