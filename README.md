@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="images/cover.webp" alt="An AI assistant builds a sorting line in LineRig from a drawing and a tag table, then runs it" width="100%">
+  <img src="images/cover.avif" alt="An AI assistant builds a sorting line in LineRig from a drawing and a tag table, then runs it" width="100%">
 </p>
 
 ## Describe a line. AI builds it.
