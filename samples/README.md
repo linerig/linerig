@@ -10,5 +10,3 @@ address the same signals.
 | Sorting line | intermediate | [sorting-line.md](sorting-line.md) | [SortingLine_PLCTags.xlsx](SortingLine_PLCTags.xlsx) |
 | Packaging cell | advanced | [packaging-cell.md](packaging-cell.md) | [PackagingCell_PLCTags.xlsx](PackagingCell_PLCTags.xlsx) |
 | End of line | expert | [end-of-line.md](end-of-line.md) | [EndOfLine_PLCTags.xlsx](EndOfLine_PLCTags.xlsx) |
-
-Licence: CC BY 4.0 ([LICENSE.md](../LICENSE.md)).
