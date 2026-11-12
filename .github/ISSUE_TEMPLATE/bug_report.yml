@@ -1,0 +1,52 @@
+name: Bug report
+description: Something in LineRig does not work as expected.
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: LineRig version
+      description: Help → About.
+      placeholder: "0.2.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: System
+      options:
+        - Windows 11
+        - Windows 10
+        - macOS, Apple silicon
+        - macOS, Intel
+    validations:
+      required: true
+  - type: dropdown
+    id: plc
+    attributes:
+      label: PLC connection
+      options:
+        - None (signal panel or demo program)
+        - S7-1200 / S7-1500 over PUT/GET
+        - S7-PLCSIM Advanced
+        - Other
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the sample "Sorting line"
+        2. …
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: |
+        Attach Player.log if you can. Windows: %USERPROFILE%\AppData\LocalLow\…\Player.log.
+        macOS: ~/Library/Logs/…/Player.log. Remove anything private (licence key, API keys) first.

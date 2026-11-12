@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Licences, orders and invoices
+    url: https://linerig.com/pricing/
+    about: Questions about buying or renewing a licence. Or write to hello@linerig.com.
+  - name: Documentation
+    url: https://linerig.com/docs/
+    about: How to build a line and connect a PLC.

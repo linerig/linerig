@@ -1,0 +1,15 @@
+name: Idea or missing part
+description: A part, a feature or an exercise you would like in LineRig.
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: For a part, a photo or a datasheet link of the real machine helps.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would you use it for?
